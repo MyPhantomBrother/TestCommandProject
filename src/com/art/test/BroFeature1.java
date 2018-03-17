@@ -10,5 +10,8 @@ public class BroFeature1 {
 
         //Bro:[Bro/feature-1] - 3 commit
         System.out.println("Bro/feature-1 - 3 commit");
+
+        //Bro:[Bro/feature-1] - 4 commit
+        System.out.println("Bro/feature-1 - 4 commit");
     }
 }
