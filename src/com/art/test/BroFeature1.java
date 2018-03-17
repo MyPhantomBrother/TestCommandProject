@@ -7,5 +7,8 @@ public class BroFeature1 {
 
         //Bro:[Bro/feature-1] - 2 commit
         System.out.println("Bro/feature-1 - 2 commit");
+
+        //Bro:[Bro/feature-1] - 3 commit
+        System.out.println("Bro/feature-1 - 3 commit");
     }
 }
