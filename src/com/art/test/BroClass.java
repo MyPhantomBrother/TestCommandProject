@@ -10,5 +10,8 @@ public class BroClass {
 
         //Bro:[Master] - Second commit
         System.out.println("Second commit");
+
+        //Bro:[Master] - Third commit
+        System.out.println("Third commit");
     }
 }
