@@ -20,6 +20,9 @@ public class BroClass {
         //Bro:[Master] - 5 commit
         System.out.println("5 commit");
 
+        //Bro:[Master] - 6 commit
+        System.out.println("6 commit - changed after Art commit - changed after merging");
+
 
     }
 }
