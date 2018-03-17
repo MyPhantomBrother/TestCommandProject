@@ -23,6 +23,9 @@ public class BroClass {
         //Bro:[Master] - 6 commit
         System.out.println("6 commit - changed after Art commit");
 
+        //Bro:[Master] - 7 commit
+        System.out.println("7 commit - changed after rebase");
+
 
     }
 }
