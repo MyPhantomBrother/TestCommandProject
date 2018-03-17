@@ -17,6 +17,9 @@ public class BroClass {
         //Bro:[Master] - 4 commit
         System.out.println("4 commit - added after 'git rebase -i HEAD~3'!");
 
+        //Bro:[Master] - 5 commit
+        System.out.println("5 commit");
+
 
     }
 }
