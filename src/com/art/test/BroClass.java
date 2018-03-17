@@ -21,11 +21,7 @@ public class BroClass {
         System.out.println("5 commit");
 
         //Bro:[Master] - 6 commit
-<<<<<<< HEAD
-        System.out.println("6 commit - changed after Art commit - changed after merging");
-=======
-        
->>>>>>> b64dcd8... Bro:[Master] - 6 commit - after git rebase
+        System.out.println("6 commit - changed after Art commit");
 
 
     }
