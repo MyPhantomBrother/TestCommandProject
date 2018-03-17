@@ -10,5 +10,8 @@ public class ArtFeature2 {
 
         //Art:[Art/feature2] - 3 commit
         System.out.println("Art/feature2 - 3 commit");
+
+        //Art:[Art/feature2] - 4 commit
+        System.out.println("Art/feature2 - 4 commit");
     }
 }
